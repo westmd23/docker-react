@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Sup fam?
+          Sup fam? This Shit is Dope doh
         </p>
         <a
           className="App-link"
